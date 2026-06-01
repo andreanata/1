@@ -1,0 +1,12 @@
+{
+  "firebase": {
+    "enabled": false,
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": ""
+  },
+  "note": "Set 'enabled' to true dan isi data Firebase Anda. Lihat panduan di README.md"
+}
